@@ -1,0 +1,14 @@
+FOLLOW THESE STEPS!!! (AT YOUR OWN RISK!!!)
+               ||REQUIRMENTS||
+               1-modded PS3\CFW OR HEN OR DEX OR ANY MODDED PS3 that can replace files
+               2-USB OR FILEZILLA OR TRANSFERING METHOD
+               3-METAL GEAR SOLID V PHANTOM PAIN on Multiman recommended AND BACKUP FILES
+               4-MGSV_QAR_Tool and Mod that isn't Heavy or require plugin
+               
+        ||STEP||
+1-first of all you need to make a back up to your GAME incase it get corrupted
+2-Go IN PS3 to GAMES/{METAL GEAR SOLID V}/PS3_GAME/USRDIR/master/ef/ and copy one of those files Like 77e6d53969026de depending on the mod
+4-now open CMD{hold HOME BUTTON+R on keyboard} and drag MGSV_QAR_Tool to CMD then drag 77e6d53969026de and click Enter
+5-Congratulations you just extracted the file, now you will find the folder with the same name as the extracted file and now put the mod into the folder as required depending on the mod
+6-now open CMD again and put MGSV_QAR_Tool then put the folder of the modded folder next to it and wait until its compressed into a file again
+7-Put the modded file on the PS3 and replace it after you made sure its backed up
